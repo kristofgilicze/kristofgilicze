@@ -1,4 +1,5 @@
-### Hi there 👋
+Full-stack software developer, specialised in measurement systems and IoT solutions.
+Passionate about great UI/UX.
 
 <!--
 **kristofgilicze/kristofgilicze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
