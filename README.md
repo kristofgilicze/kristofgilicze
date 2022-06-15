@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello! Nice to see you.</h1>
+<h1><img height="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello! Nice to see you.</h1>
 <h3>I'm Kristof, software developer from Hungary, currently living near <a href="https://www.google.com/maps/place/Veszpr%C3%A9m/@47.1258944,17.8370373,12z/data=!3m1!4b1!4m5!3m4!1s0x47699add028c2f91:0x400c4290c1e1210!8m2!3d47.1028087!4d17.9093019" target="_blank">Veszprem</a>.
 I'm most intrested in measurement systems and IoT solutions, though I insist on keeping myself up to date with the modern web stack from DevOps to Frontend.
 </h3>
